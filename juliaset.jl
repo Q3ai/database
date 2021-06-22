@@ -1,3 +1,4 @@
+
 function mandelbrot(a)
     z = 0
     for i=1:50
